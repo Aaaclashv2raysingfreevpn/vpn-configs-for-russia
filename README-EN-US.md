@@ -57,7 +57,7 @@ THANK YOU FOR YOUR ATTENTION!
 
 <h2><code> TOPIC №1 </code></h2>
 
-### Follow the Telegram channel: https://t.me/igareq <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" width="25" align="absmiddle">
+### Follow the Telegram channel: https://t.me/free_fast_vpn_ru <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" width="25" align="absmiddle">
 
 ---
 
@@ -4342,27 +4342,31 @@ Igareck has already built automatic health checking of configurations into all C
 
 ### `iOS clients for standard subscriptions and special subscriptions with automatic health check:`
 
-   **① `Karing`** **https://apps.apple.com/us/app/karing/id6472431552**
+   **1. `SwanVPN`** **https://apps.apple.com/app/swan-vpn/id6755762700**
+     
+   *Swan VPN melindungi privasi dan keamanan Anda. Terhubung dengan satu ketukan untuk internet yang aman dan stabil.*
+
+   **2. `Karing`** **https://apps.apple.com/us/app/karing/id6472431552**
      
    *For standard subscriptions. The best free universal client at the moment. Automatic health check of configurations in the background. Geo-lists and point routing are conveniently configured during the initial installation. Demanding on the amount of RAM.*
 
-   **② `Shadowrocket`** **https://apps.apple.com/us/app/shadowrocket/id932747118** 
+   **3 `Shadowrocket`** **https://apps.apple.com/us/app/shadowrocket/id932747118** 
    
    *For standard subscriptions. Paid. There is a built-in mechanism for automatic health checks, implemented through the menu "Connection Test - URL Test Settings". Take the RU-DIRECT routing settings from the Shadowrocket instructions. Demanding on the amount of RAM.*
 
-   **③ `V2Box`** **https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690**
+   **4. `V2Box`** **https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690**
 
    *For standard subscriptions. Automatically check configurations in the background (In the main menu you need to activate "Smart Connect"). Geo-lists and point routing are conveniently configured in the main menu.*
 
-   **④ `Happ`** **https://apps.apple.com/us/app/happ-proxy-utility/id6504287215**
+   **5. `Happ`** **https://apps.apple.com/us/app/happ-proxy-utility/id6504287215**
 
    *Use with a special subscription for Happ. The best one-button option at the moment! The client is well optimized for weak/old devices. Use Happ if Karing/Shadowrocket/Streisand drops connection due to lack of RAM.*
 
-   **⑤ `Streisand`** **https://apps.apple.com/us/app/streisand/id6450534064**
+   **6. `Streisand`** **https://apps.apple.com/us/app/streisand/id6450534064**
    
    *Use with a special subscription for Streisand. Demanding on the amount of RAM.*
 
-   **⑥ `v2RayTun`** **https://apps.apple.com/us/app/v2raytun/id6476628951**
+   **7. `v2RayTun`** **https://apps.apple.com/us/app/v2raytun/id6476628951**
 
    *Use with a special subscription for v2RayTun.* 
 
@@ -4412,32 +4416,35 @@ Igareck has already built automatic health checking of configurations into all C
 ---
 
 ### `Android clients for standard subscriptions and special subscriptions with automatic health check:`
+**1. `SwanVPN`** **https://play.google.com/store/apps/details?id=com.light.security.free.vpn**
+     
+*Swan VPN melindungi privasi dan keamanan Anda. Terhubung dengan satu ketukan untuk internet yang aman dan stabil.*
 
-**① `Karing`** https://github.com/KaringX/karing/releases
+**2. `Karing`** https://github.com/KaringX/karing/releases
 
 *For standard subscriptions. The best free universal client at the moment. Automatic health check of configurations in the background. Geo-lists and point routing are conveniently configured during the initial installation. Demanding on the amount of RAM.*
 
-**② `Exclave`** https://github.com/dyhkwong/Exclave/releases
+**3. `Exclave`** https://github.com/dyhkwong/Exclave/releases
 
 *For standard subscriptions. The platform is exclusively Android. There is a built-in mechanism for automatic health checks, implemented through the “Balancer” (Balancer) with the "LeastPing" strategy. Configured in the client itself. RU-DIRECT geo-routing is built into the client, but if it is not there, then see the Exclave instructions and add it manually. Look carefully at the other settings!*
 
-**③ `Happ`** https://play.google.com/store/apps/details?id=com.happproxy
+**4. `Happ`** https://play.google.com/store/apps/details?id=com.happproxy
 
 *Use with a special subscription for Happ. One-button option. The subscription has a built-in mechanism for automatic health checks and routing. The client is well optimized for weak/old devices. Use Happ if Karing drops connection due to low RAM.*
 
-**④ `v2rayNG`**  https://github.com/2dust/v2rayNG/releases
+**5. `v2rayNG`**  https://github.com/2dust/v2rayNG/releases
 
 *Use with a special subscription for v2rayNG. One-button option. The subscription has a built-in mechanism for automatic health checks, implemented through the “Policy Group” / “Policy Group” with the “Least Ping” strategy, as well as routing.*
 
-**⑤ `v2Box`** https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box
+**6. `v2Box`** https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box
 
 *Use with a special v2Box subscription. One-button option. The subscription has a built-in mechanism for automatic health checks and routing.*
 
-**⑥ `v2RayTun`** https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
+**7. `v2RayTun`** https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
 
 *Use with a special subscription for v2RayTun. One-button option. The subscription has a built-in mechanism for automatic health checks and routing. The client is well optimized for weak/old devices. Use v2RayTun if Karing drops the connection due to insufficient RAM.*
 
-**⑦ `NekoBox`** https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+**8. `NekoBox`** https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
 *For standard subscriptions. The platform is exclusively Android. The original NekoBox does not have a built-in mechanism for automatic health checks, only a manual URL test.*
 
@@ -5022,121 +5029,6 @@ But the DNS resolver still sees the domain name + IP, because you pass DNS reque
 `Secure/Independent Browsers: Mozilla Firefox as a minimum, Librewolf, Ungoogled Chromium, Cromite as a maximum` (in no case a Yandex browser)
 
 ---
-
-
-**The information will be updated and updated over time.**
-
-</details>
-
-
-## <img src="https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@refs/heads/main/Files/NYC_Statue_of_Liberty_2.gif" width="100" align="absmiddle"> Share your subscriptions! Use the Internet freely and responsibly!
-
-## 🔖 License
-
-License GPL-3.0. The license can be found in the file [`LICENSE`](LICENSE)
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwMmJ3bDZvMWV2b2JraXZ4ZWk2Y2I5ODYyZ2M2aG5mMHc5ZW81ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ME8P6ce7Mn3gnRbird/giphy.gif" width="30"> `Support the author`
-
-**The project is non-commercial and is based on the personal enthusiasm of the author.**
-
-**If you want to support, you can do this in 2 ways: through `donate on Patreon.com` or `cryptocurrency transfer`.**
-
-The funds will be used to continue activities and develop them.
-
-Thanks in advance to everyone who cares!
-
-### 1. Donate to `Patreon.com/igareck`
-
-[![Support me on Patreon](https://img.shields.io/badge/Support_me_on-Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/igareck/shop)
-
-Patreon in Russia only works via VPN.
-
-From Russia you can pay through:
-
-**`International bank cards`**
-
-**`Virtual cards from foreign issuers`**
-
-**`App Store and Google Play: Pay for Patreon through in-app purchases on your phone`**
-
-**`Intermediary payment services (list below)`**
-
-List of intermediaries for paying for any Patreon subscription, replenishing the App Store / Google Play balance, or offering services for issuing international Visa/Mastercard bank cards:
-
-<details>
-<summary><code><em> Click on the arrow to expand the list of intermediaries for payment/transfer </em></code></summary>
-
-⇩
-
-```diff
-
-Payment for Patreon subscription:
-https://pyyplbot.com/kak-oplatit/patreon/
-https://oplata.guru/patreon
-https://oplatym.ru/patreon
-https://sanpay.ru/instrustions/kak-oplatit-podpisku-na-patreon.html
-https://getpayall.com/services/patreon
-
-Registration/replenishment of international bank cards Visa/Mastercard:
-https://platipomiru.com/
-https://wanttopay.net/
-https://pyyplbot.com/bank-cards/
-https://oplata.guru/zarubezhnaya-bankovskaya-karta
-https://getpayall.com/individual
-
-Apple-ID / Google Play balance replenishment:
-https://wanttopay.net/
-https://oplata.guru/googleplay
-https://oplatym.ru/googleplay
-
-```
-
-</details>
-
-### 2. Cryptocurrency transfer
-
-<details>
-<summary><code><em> Click on the arrow to expand the list of crypto wallets  </em></code></summary>
-
-⇩
-
-Select any cryptocurrency convenient for you and copy its address. You should only send to the wallet that matches the coin, otherwise the funds will be lost.
-
-| № | Coin | Address |
-|--|--|--|
-| 1 | `Bitcoin (BTC)` | `18vVz4UzFdxCGnCnAzJtXv6ECsh32ff9VT` |
-| 2 | `Coins_on_database_Ethereum(ETH): Ethereum (ETH), USDC (ETH), USDT (Ethereum ERC-20), Shiba Inu (SHIB)` | `0xfc668016a823f3EE53d2F3009547666A2BdaBd32` |
-| 3 | `Coins_on_database_Tron_(TRX): Tron (TRX), USDC (TRX), USDT (TRX)` | `TLnzF6NYgyqBHJMM2qByMXEHLBWNhBWcJ1` |
-| 4 | `Coins_on_database_Toncoin_(TON): Toncoin (TON), Notcoin (NOT), Hamster Combat (HMSTR), USDT (USDT-TON)` | `EQAGbSuckE93yiACSENJGo8WuRq474Wba1J4yCF1Q59xsL0k` |
-| 5 | `Litecoin (LTC)` | `LcHbh84V5PgWk1gTzjGWeef6NQT4MwE9RK` |
-| 6 | `Ripple (XRP)` | `rNaKXrfLGsAVvA8JMr9dApMgCNzFmPbvTR` |
-| 7 | `Monero (XMR)` | `47uvnonFqbyHMRrZadCAAvL2q9ed476PKdGtbLxXeUj1fs7gtPZ6mx3BeRBd2JM6Wmc16tN7K3ZcDMfds3cE8NaMCgAbD5Q` |
-| 8 | `ZCash (ZEC)` | `t1cjEDjtLxatccB6o1pUPxb3pMByCz1L5Ct` |
-| 9 | `Dogecoin (DOGE)` | `DRNBruzYDv5vWEz1ndGDjywqugVhd2Zmbm` |
-| 10 | `Solana (SOL)` | `Hxm9MjxfD1LNKaWuiFFLzBDTR5CnJSty7gRnkTfubiWj` |
-| 11 | `Stellar (XLM)` | `GDRN4K4VDDGNFIWJ3BAN7KL7576764RN44TBHTXYJIXMLK7RNP4UTSJ6` |
-| 12 | `Cardano (ADA)` | `addr1qxpw4m02auvmrfee3suz98tvj82cm4mpfllvyda8fz004j40dpemdcuzntj5ykxwv2x6azyp982stfxegm9zvl9kf74s309qhu` |
-| 13 | `NEAR Coin (NEAR)` | `d9cba0ec6233589267f43b91d8c156efb7fcd0a0177d7e8a34f7b791a61e7e35` |
-
-</details>
-
-<details>
-<summary><code><em> Where do you buy cryptocurrency? </em></code></summary>
-
-⇩
-
-```diff
-
-BestChange:
-https://www.bestchange.com
-https://www.bestchange.net
-https://www.bestchange.ru
-New version of the BestChange website:
-https://bestchange.biz/ru
-
-```
-
-</details>
 
 
 ##  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJ4anB6YjR3aWJpaTRvYzUzejY1dmwzN2c2M3c2NnV0MXUwM3RrcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/acN91ftm1tJX23OOBx/giphy.gif" width="60"> Contact email: igareck@proton.me
