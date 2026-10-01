@@ -16,7 +16,7 @@
 [![Support me on Patreon](https://img.shields.io/badge/Support_me_on-Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/igareck/shop)
 [![Telegram](https://img.shields.io/badge/Join_me_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igareq)
 
-**🌐 Language: [Russian](README.md) | 🌐 Language: [English](README-EN-US.md) | 🌐 语言: [中文](README-ZH-CN.md) | 🌐 زبان: [فارسی](README-FA-IR.md)**
+**🌐 Language: [Russian](README.md) | 🌐 Language: [English](README-EN-US.md) | 🌐 زبان: [فارسی](README-FA-IR.md)**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> A collection of public, free, automatically updated and automatically checked VPN configurations tested to work in the Russian Federation (`VLESS` / `Trojan` / `Shadowsocks` / `Hysteria2` / `VMess` / `TUIC` and others).
 
