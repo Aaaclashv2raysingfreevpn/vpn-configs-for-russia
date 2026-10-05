@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
 ![maxresdefault](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@refs/heads/main/Files/vpn-configs-for-russia-4.svg)
 
